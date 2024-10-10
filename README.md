@@ -7,7 +7,7 @@
 Учебная коллеция:
 ----------
 
-Содержит [модуль](plugins/modules/my_own_module.py) создания файла.
+Содержит [модуль](my_own_namespace/yandex_cloud_elk/plugins/modules/my_own_module.py) создания файла.
 
 ---
 
