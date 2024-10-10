@@ -1,3 +1,3 @@
 # Ansible Collection - my_own_namespace.yandex_cloud_elk
 
-Documentation for the collection.
+Содержит [README](/root/my_own_collection/README.md).
