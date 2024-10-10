@@ -1,23 +1,16 @@
-# Ansible Collection - netology.yandex_cloud_elk
+# my_module_role 
+
+Моя учебная роль
 
 ---
-## Документация к коллекции
-
----
-Учебная коллеция:
+Учебная роль:
 ----------
 
-Содержит [модуль](plugins/modules/my_own_module.py) создания файла.
+Содержит роль создания файла.
 
 ---
 
-**roles/my_single_role**:
------------
-
-    Моя учебная роль
----
-
-roles/my_single_role/default:
+default:
 ------------
     path - путь до файла.
     content - содержимое файла. 
@@ -26,8 +19,8 @@ roles/my_single_role/default:
 ---
 Пример использования роли:
 
+
 ```bash
----
 - name: Local Test
   hosts: localhost
   roles:
